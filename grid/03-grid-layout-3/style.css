@@ -64,6 +64,7 @@
 }
 
 .sidebar {
+<<<<<<< HEAD
   background-color: #FF7755;
 
   /* Added by me */
@@ -77,6 +78,9 @@
 .sidebar div {
   display: grid;
   align-items: center;
+=======
+  background-color: #C50208;
+>>>>>>> 9ab349e7d96a947cdfb52745a86b7fee2e954ec0
 }
 
 .sidebar .photo {
@@ -96,7 +100,7 @@
 }
 
 .nav {
-  background-color: #FF7755;
+  background-color: #C50208;
 }
 
 /* Added by me */
@@ -158,5 +162,5 @@
 
 .footer p {
   font-size: 13px;
-  font-weight: normal;  
+  font-weight: normal;
 }
